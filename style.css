@@ -1,0 +1,35 @@
+body{
+    background-color: #E7CBCB;
+}
+
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+h1{
+    font-size: 40px;
+}
+
+.img-container, .quote, #btn-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+#par{
+    font-size: 30px;
+}
+
+#btnOne, #btnTwo, #btnThree{
+    padding: 15px;
+    background-color: #643843;
+    color: white;
+    margin: 10px ;
+    border: none;
+    border-radius: 20px;
+}
+
+#myImage, #img2{
+    margin: 30px;
+}
